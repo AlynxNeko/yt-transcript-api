@@ -1,6 +1,6 @@
 # 🎙️ YouTube Transcript API (Subproject)
 
-A lightweight Flask API for retrieving YouTube video transcripts via `youtube-transcript-api`.
+A lightweight Flask API for retrieving YouTube video transcripts via [`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/).
 
 This project serves as a **backend submodule** required by the [YouTube to Document Converter](https://github.com/AlynxNeko/yt-transcriber) main app. It exposes a REST endpoint to fetch raw transcripts based on YouTube video IDs.
 
